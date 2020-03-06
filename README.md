@@ -11,7 +11,7 @@ Documents
   4. Final Project Report
 
 Code
-  1. Python Notebook- CapStone1Models
+  1. Python Notebook- CapStone1Models.ipynb
   
   
 
