@@ -2,9 +2,9 @@
 
 This repository will contain all of capstone 1 project files
 
-Data
-  Size of data file is too large for uploading to github repository. 
-  Data can be found at https://www.kaggle.com/wendykan/lending-club-loan-data#loan.csv
+Data : 
+    Size of data file is too large for uploading to github repository. 
+    Data can be found at https://www.kaggle.com/wendykan/lending-club-loan-data#loan.csv
 
 Documents
   1. Project Proposal
